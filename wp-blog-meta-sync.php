@@ -5,20 +5,20 @@
  * @package   Wp_Blog_Meta_Sync
  * @author    Jonathan Harris <jon@spacedmonkey.co.uk>
  * @license   GPL-2.0+
- * @link      http://www.jonathandavidharris.co.uk/
+ * @link      http://www.spacedmonkey.com/
  * @copyright 2017 Spacedmonkey
  *
  * @wordpress-plugin
  * Plugin Name:        Blog Meta option syncing
- * Plugin URI:         https://www.github.com/spacedmonkey/advanced-nav-cache
+ * Plugin URI:         https://www.github.com/spacedmonkey/wp-blog-meta-sync
  * Description:        Sync key options with blog meta
  * Version:            1.0.0
  * Author:             Jonathan Harris
- * Author URI:         http://www.jonathandavidharris.co.uk/
+ * Author URI:         http://www.spacedmonkey.com/
  * License:            GPL-2.0+
  * License URI:        http://www.gnu.org/licenses/gpl-2.0.txt
  * Network:            true
- * GitHub Plugin URI:  https://www.github.com/spacedmonkey/blog-meta-sync
+ * GitHub Plugin URI:  https://www.github.com/spacedmonkey/wp-blog-meta-sync
  */
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
